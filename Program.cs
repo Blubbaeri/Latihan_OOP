@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Initial commit test
+
+using System;
 using System.Collections.Generic;
 
 class Program
